@@ -11,10 +11,6 @@ I used the MatPlotLib library to create the line chart, not just because an exce
 
 ## Analysis & Results
 
-
-![image](https://user-images.githubusercontent.com/68082808/90998077-36c32a00-e591-11ea-9bc6-04af35068801.png)
-
-
 ### Total Rides
 Urban cities have the greatest number of rides, with 1625.
 
@@ -54,6 +50,7 @@ Suburban cities have the second greatest average fare per driver, with $39.50 pe
 
 Rural Cities have the greatest average fare per driver, with $55.49 per driver.
 
+![image](https://user-images.githubusercontent.com/68082808/90998077-36c32a00-e591-11ea-9bc6-04af35068801.png)
 
 ## Business Recommendations and Notes
 One can readily notice from the chart above that there are significantly more rides in urban locations, that they have more drivers, and that the total fare is greatest within the first four months of 2019. However, there is a more telling statistic, the average fare per ride in urban areas is less than that in suburban and rural areas. The average fare per driver is also less in those areas too. That may be for a variety of reasons. Firstly, perhaps the distance per ride within urban areas are shorter than those rides in suburban and rural areas, and therefore the average fare per ride and average fare per driver is lower in those areas. 
