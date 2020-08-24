@@ -4,7 +4,10 @@
 This Read-Me refers to the Pyber_Challenge.ipynb file.
 We had two main objectives, to create a data frame summarizing ride-sharing data by data type, and to create a multi-line chart of the total fares of each city type across several months. I used the pandas library for most of the technical analysis, as that allows a programmer the ability to draw data frames from csv files as well as manipulate the data within the data frame to express a meaningful story. After loading the two necessary .csv files, I merged them into a data frame. To make a summary of the data, I first used the .groupby() method to isolate relevant data, calculated informative averages using that date, and created a new summary data frame. The columns of the summary data frame were written using dictionary-esque format, including index names and values, where each column represented each collection of isolated data collected earlier. 
 
-I used the MatPlotLib library to create the line chart, not just because an excel chart isn’t impressive enough, but more importantly because I could draw data from within the data frames created through pandas. MatPlotLib is a graphing and plotting library for Python that comes with the Anaconda software, as long as you import it in Jupyter Notebook (or other interface you wish to use), it can be readily utilized. The line chart made in the .ipynb file uses the object-oriented interface method.
+I used the MatPlotLib library to create the line chart, not just because an excel chart isn’t impressive enough, but more importantly because I could draw data from within the data frames created through pandas. MatPlotLib is a graphing and plotting library for Python that comes with the Anaconda software, as long as you import it in Jupyter Notebook (or other interface you wish to use), it can be readily utilized. The line chart made in the .ipynb file uses the object-oriented interface method. Below is an image of the line chart produced, as well as the code used.
+
+![image](https://user-images.githubusercontent.com/68082808/90998247-a6d1b000-e591-11ea-9679-1cfed067b47d.png)
+![image](https://user-images.githubusercontent.com/68082808/90998300-cbc62300-e591-11ea-89b2-2c15cfd49dd9.png)
 
 ## Analysis & Results
 
